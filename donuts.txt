@@ -13,9 +13,5 @@ YUMMY omg
 gimme!
 
 holy creatures
-<<<<<<< HEAD
 
 who will bring donuts instead of bagels?
-=======
-mmm
->>>>>>> d5afea99ece9f4aae29e045a9326bd828faf0278
